@@ -12,3 +12,10 @@
 - Haptic Electronics: [[https://blog.somaticlabs.io/getting-started-with-haptic-feedback-arduino-guide/][intro]]
 - [[http://greenteapress.com/thinkdsp/html/index.html][Think DSP]] book
 - [[https://www.academia.edu/21290661/The_Life_Project][The Life Project]]
+
+**** PM
+
+- [[https://cdn-learn.adafruit.com/downloads/pdf/adding-a-real-time-clock-to-raspberry-pi.pdf][Realtime Clock]] for Raspberry Pi
+- [[https://mlab.com/home][mLab]] for MongoDB
+- [[https://devcenter.heroku.com/][Heroku Dev Center]] for Python server stacks
+- [[https://www.kickstarter.com/projects/iot-invention-kit/eslov-iot-invention-kit][ESLOV IoT Invention Kit (Canceled)]]
