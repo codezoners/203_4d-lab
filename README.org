@@ -3,6 +3,12 @@
 
 * ~203_4d-lab~
 ** 4D Design Lab
+*** Timetable (Provisional)
+
+| When             | Week | Loc | In Class                                  |
+|------------------+------+-----+-------------------------------------------|
+| [2017-10-03 Tue] |    1 | 108 | Brainstorming; sensors; technology stacks |
+
 *** Week 1 / [2017-10-03 Tue]
 **** AM
 
