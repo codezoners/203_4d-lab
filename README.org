@@ -1,1 +1,13 @@
-* 203_4d-lab
+~-*- mode: org; mode: visual-line; -*-~
+#+STARTUP: indent
+
+* ~203_4d-lab~
+** 4D Design Lab
+*** Week 1 / [2017-10-03 Tue]
+**** AM
+
+- Brainstorming
+- Victorian Automata
+- Kinetic Anthropomorphised Art: Tim Lewis (Pony)
+- Haptic Electronics: [[https://blog.somaticlabs.io/getting-started-with-haptic-feedback-arduino-guide/][intro]]
+- [[http://greenteapress.com/thinkdsp/html/index.html][Think DSP]] book
