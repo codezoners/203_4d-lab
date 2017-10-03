@@ -7,7 +7,8 @@
 **** AM
 
 - Brainstorming
-- Victorian Automata
+- Victorian Automata; [[https://www.youtube.com/watch?v=bY_wfKVjuJM][The Writer]]
 - Kinetic Anthropomorphised Art: Tim Lewis (Pony)
 - Haptic Electronics: [[https://blog.somaticlabs.io/getting-started-with-haptic-feedback-arduino-guide/][intro]]
 - [[http://greenteapress.com/thinkdsp/html/index.html][Think DSP]] book
+- [[https://www.academia.edu/21290661/The_Life_Project][The Life Project]]
