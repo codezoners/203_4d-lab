@@ -25,3 +25,6 @@
 - [[https://mlab.com/home][mLab]] for MongoDB
 - [[https://devcenter.heroku.com/][Heroku Dev Center]] for Python server stacks
 - [[https://www.kickstarter.com/projects/iot-invention-kit/eslov-iot-invention-kit][ESLOV IoT Invention Kit (Canceled)]]
+- [[http://littlebits.cc/][littleBits electronics]]
+- [[https://www.samlabs.com/][SAM Labs]]
+- [[https://techcrunch.com/video/meet-domgy-the-pet-robot/5773dfde869ea96e817e2d2d/][DOMGY]] pet robot
