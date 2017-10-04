@@ -5,9 +5,10 @@
 ** 4D Design Lab
 *** Timetable (Provisional)
 
-| When             | Week | Loc | In Class                                  |
-|------------------+------+-----+-------------------------------------------|
-| [2017-10-03 Tue] |    1 | 108 | Brainstorming; sensors; technology stacks |
+| When             | Week | Loc | In Class                                            |
+|------------------+------+-----+-----------------------------------------------------|
+| [2017-10-03 Tue] |    1 | 108 | Brainstorming; sensors; software stack introduction |
+| [2017-10-10 Tue] |    2 |     | Software stacks: hands-on                           |
 
 *** Week 1 / [2017-10-03 Tue]
 **** AM
@@ -28,3 +29,11 @@
 - [[http://littlebits.cc/][littleBits electronics]]
 - [[https://www.samlabs.com/][SAM Labs]]
 - [[https://techcrunch.com/video/meet-domgy-the-pet-robot/5773dfde869ea96e817e2d2d/][DOMGY]] pet robot
+
+*** Week 2 / [2017-10-10 Tue]
+**** Tool Chains
+
+- Python, and ~virtual_env~
+- Flask
+- MongoDB
+- Heroku
