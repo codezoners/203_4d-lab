@@ -37,3 +37,9 @@
 - Flask
 - MongoDB
 - Heroku
+
+*** Week 3 / [2017-10-17 Tue]
+**** Deployment
+
+- Deployment to Heroku using GitHub
+- Starting Flask server [here](https://github.com/codezoners/virtual_pet)
