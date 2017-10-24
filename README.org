@@ -43,3 +43,9 @@
 
 - Deployment to Heroku using GitHub
 - Starting Flask server [here](https://github.com/codezoners/virtual_pet)
+- Introduction to Mongo DB
+
+*** Week 4 / [2017-10-24 Tue]
+
+- More on Heroku deployment
+- Introduction to SVG.js
